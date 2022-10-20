@@ -1,0 +1,374 @@
+Date: Thu, 20 Oct 2022 12:53:56 +0000 (UTC)
+Message-ID: <430801850.19.1666270436944@2acbc8260022>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_18_462974191.1666270436944"
+
+------=_Part_18_462974191.1666270436944
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>Data Profiling Checklist</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: #fff !important;
+        color: #000 !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: #000;
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>Data Profiling Checklist</h1>
+    <div class=3D"Section1">
+        <div class=3D"table-wrap">
+<table data-layout=3D"wide" data-local-id=3D"d9b3d869-5411-452f-a4d8-d3c73a=
+d62300" class=3D"confluenceTable">
+<colgroup>
+<col style=3D"width: 320.0px;">
+<col style=3D"width: 320.0px;">
+<col style=3D"width: 320.0px;">
+</colgroup>
+<tbody>
+<tr>
+<th class=3D"confluenceTh"><p><strong>Classification</strong></p></th>
+<th class=3D"confluenceTh"><p><strong>Description/ Sample Values </strong><=
+/p></th>
+<th class=3D"confluenceTh"><p><strong>Captured Actual Value as per Use case=
+</strong></p></th>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Type of Data Object</p></td>
+<td class=3D"confluenceTd"><p>File , String , Json </p></td>
+<td class=3D"confluenceTd"><p></p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Object extension / format</p></td>
+<td class=3D"confluenceTd"><p>.dat , .txt, .json, </p></td>
+<td class=3D"confluenceTd"><p></p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Description of Object </p></td>
+<td class=3D"confluenceTd"><p>Describes the data content at a high level an=
+d at a granular level.</p><p>for eg: A file with multiple records will desc=
+ribe the content in the file and the use cases that lead to generation of t=
+his data.</p></td>
+<td class=3D"confluenceTd"><p></p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p></p><p>Nature of refresh</p></td>
+<td class=3D"confluenceTd"><p>Are all records sent daily </p><p>OR </p><p>o=
+nly New / Updated records sent </p></td>
+<td class=3D"confluenceTd"><p></p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Nature of updates</p></td>
+<td class=3D"confluenceTd"><p>Point in time, no updates : Credit Card trans=
+action , no update </p><p>Lifecycle , multiple stages : Online order which =
+gets updated as it passes through multiple statuses ( New/ cancelled / comp=
+leted) </p><p>One time Historical migration: </p></td>
+<td class=3D"confluenceTd"><p></p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Frequency </p></td>
+<td class=3D"confluenceTd"><p>Real time, Near Real time , Hourly , Daily , =
+weekly , monthly , annually , ad hoc one time , ad hoc on demand</p></td>
+<td class=3D"confluenceTd"><p></p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Max time of arrival, for non real time data</=
+p></td>
+<td class=3D"confluenceTd"><p>This is the time within which a dataset has t=
+o be made available for normal schedules to be met.</p></td>
+<td class=3D"confluenceTd"><p></p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Elements that define uniqueness for a record =
+or Primary keys</p></td>
+<td class=3D"confluenceTd"><p>a single element or a combination of elements=
+ can form a unique key.</p></td>
+<td class=3D"confluenceTd"><p></p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Number of Elements</p></td>
+<td class=3D"confluenceTd"><p>Count of elements : 5, 10 , 15 =E2=80=A6..</p=
+></td>
+<td class=3D"confluenceTd"><p></p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Size or Volume ( Min / Max) </p></td>
+<td class=3D"confluenceTd"><p>Count of records : 1k , 100k =E2=80=A6..</p><=
+/td>
+<td class=3D"confluenceTd"><p></p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Layout Specification</p></td>
+<td class=3D"confluenceTd"><p>Structure and order of elements in a sequence=
+ </p></td>
+<td class=3D"confluenceTd"><p></p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Fixed width or delimited</p></td>
+<td class=3D"confluenceTd"><p>Are elements occupying a fixed length </p><p>=
+or </p><p>separated by any character or any specific symbol</p></td>
+<td class=3D"confluenceTd"><p></p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Delimiter used</p></td>
+<td class=3D"confluenceTd"><p>Pipe | or cedilla or Tilde ~</p></td>
+<td class=3D"confluenceTd"><p></p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Number of Textual Elements</p></td>
+<td class=3D"confluenceTd"><p>Count of elements : 5, 10 , 15 =E2=80=A6..</p=
+></td>
+<td class=3D"confluenceTd"><p></p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Number of Numeric Elements</p></td>
+<td class=3D"confluenceTd"><p>Count of elements : 5, 10 , 15 =E2=80=A6..</p=
+></td>
+<td class=3D"confluenceTd"><p></p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Number of Boolean</p></td>
+<td class=3D"confluenceTd"><p>Count of elements : 5, 10 , 15 =E2=80=A6..</p=
+></td>
+<td class=3D"confluenceTd"><p></p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Data types of each element</p></td>
+<td class=3D"confluenceTd"><p>Char , Varchar , Number, Integer , Decimal, F=
+loat</p></td>
+<td class=3D"confluenceTd"><p></p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Precision of Data types</p></td>
+<td class=3D"confluenceTd"><p>Char(10) , Number (10,2) , Number (10)</p></t=
+d>
+<td class=3D"confluenceTd"><p></p></td>
+</tr>
+<tr>
+<td class=3D"confluenceTd"><p>Min/Max or Range of Values for each element</=
+p></td>
+<td class=3D"confluenceTd"><p>[0-100]</p><p>[A,B,C,D]</p></td>
+<td class=3D"confluenceTd"><p></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+    </div>
+</body>
+</html>
+------=_Part_18_462974191.1666270436944--
